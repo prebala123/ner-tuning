@@ -1,2 +1,4 @@
 /ner
 /model
+/llama3-ner
+.gitignore
